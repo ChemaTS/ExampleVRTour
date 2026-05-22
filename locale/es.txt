@@ -1,0 +1,92 @@
+#: locale=es
+
+## Media
+
+### Imágen
+imlevel_5F69461E_50CB_CA1A_41CD_1EDE3001A016.url = media/zoomImage_51F4EB4E_4078_68D9_4196_8A0CD6CF1326_es_0_0.png
+imlevel_5F6F261E_50CB_CA1A_41B4_F17F361775DB.url = media/zoomImage_51F4EB4E_4078_68D9_4196_8A0CD6CF1326_es_0_1.png
+
+### Popup Imágen
+
+### Subtítulo
+panorama_477C1707_49A3_0DAA_41C4_A9C44E310A34.subtitle = Reuniones
+panorama_47833E3B_49A3_1FDA_41D0_F100FB87901B.subtitle = Reuniones
+
+### Título
+panorama_477A4D5D_49A1_1C59_41CF_5FF87FDCA35F.label = Administracion
+panorama_46B8408A_49A1_0519_41CB_B6880967DA4E.label = Aula 3.1
+panorama_44D27993_49A1_0701_41C5_C9DF6CFB72D7.label = Aula 3.2
+panorama_4F201BFE_44FA_6972_41AC_0E95B184CA44.label = Aula 4
+panorama_464A6FB5_49A3_1CD7_41B5_77DD2627B357.label = Cocina
+panorama_59B52F58_49A3_3C5E_41C8_751A62471367.label = Despacho
+panorama_479D840D_49A1_03B9_41C1_22604212E2A0.label = Despacho 1
+panorama_479D0A8F_49A1_04B9_41CD_56DBC7F913C5.label = Despacho 1.2
+panorama_4775360D_49A7_0FBF_41BB_EAC9D1AE2096.label = Despacho 3
+panorama_47865CBB_49A7_1CE4_41C6_339F2ABEA8FF.label = Despacho 4
+panorama_475D27C7_49BF_0CB7_41BF_A1F0BD6F6365.label = Despacho 5
+panorama_478E5E98_49BF_1CD9_41B6_68712FF064B1.label = Despacho 6
+panorama_4756C7DC_49BF_0C5A_41C4_845C25BA61FC.label = Despacho 7
+panorama_47F0CE6A_49BF_3C7E_41D1_0D90A32ED1AD.label = Despacho 8
+panorama_477C1707_49A3_0DAA_41C4_A9C44E310A34.label = Despacho 9.1
+panorama_47833E3B_49A3_1FDA_41D0_F100FB87901B.label = Despacho 9.2
+panorama_46918574_49A1_0C55_41C4_549AC011E9F9.label = Despacho Interior 2
+panorama_469870D3_49A1_0452_41CD_C56718C3869E.label = Despacho Interior 2.2
+panorama_47A6CCF3_49A1_1C64_417B_BC6AE92DED76.label = Entrada
+panorama_48682DA1_44FA_698E_41C5_8B43A5E5ED9B.label = Escaleras
+panorama_4627C3B2_49A3_04E5_41C1_5C255B70079D.label = Escaleras Abajo
+panorama_4F203654_44FA_3AB5_41AC_581BE13705AB.label = Escaleras Arriba
+panorama_46B11E3A_49A3_3FDD_41AC_5A330EE2CCC0.label = Exterior
+panorama_47A645DA_49A1_0C5A_41C7_53D3E99BD49C.label = Pasillo 1.1
+panorama_4786033E_49A7_05DC_417F_68CE565C2FF0.label = Pasillo 1.2
+panorama_5D81BC10_4A63_03DF_41CF_3639E289D8D6.label = Pasillo 1.3
+panorama_46017DAF_49A3_1CFA_41CA_340AF7E4CA6A.label = Pasillo 1.4
+panorama_4783A500_49A3_0DA6_41CA_79576B7E3742.label = Pasillo 1.5
+panorama_47F06550_49BF_0DA9_41B8_8F8A7015C558.label = Pasillo 1.6
+panorama_47771473_49A3_0C69_41C0_DD8240BF5E09.label = Pasillo 2.1
+panorama_47E8564B_49A3_0FB2_4191_25984A619D06.label = Pasillo 2.2
+panorama_47EF4762_49A1_0C6D_41C8_3ADC2BF7FEE3.label = Pasillo 2.3
+panorama_47D7C5E1_49A3_0C6E_41A2_2A951F35F915.label = Pasillo 2.4
+panorama_471F6123_49A3_05EB_418B_34F45AD9A60D.label = Pasillo 3.1
+panorama_46A25361_49A1_0467_41B6_0B976FFA5E6C.label = Pasillo 3.2
+panorama_475AF736_49A1_0DED_41CE_B20030C308A2.label = Pasillo 3.2
+panorama_47803DE4_49A1_3C6D_4169_A0473B5DB14E.label = Pasillo 3.3
+panorama_476EAEAB_49A1_3CE4_41B3_6D215078CF01.label = Pasillo 3.4
+panorama_47264B24_49A1_05EC_4195_D723C3C9B910.label = Pasillo 4.1
+panorama_44D0703C_49A3_0508_41B3_9651CCC40E63.label = Pasillo 4.2
+panorama_48C36F09_44FA_6A9F_41CE_CB6847C713E1.label = Pasillo 4.3
+panorama_4356E838_5060_4ADE_41D2_48F59502DEA1.label = Pasillo 5.1
+panorama_4710C146_49A1_05AC_4179_8C88C9AAB0DC.label = Pasillo 5.2
+panorama_4695B97B_49A1_0464_41D1_3ED355D82E27.label = Pasillo 5.3
+panorama_47A470AA_49A1_04E4_41CC_6343B4C253B0.label = Pasillo 5.4
+panorama_47EC452A_49A3_0DF2_41BA_67EA9A2A8065.label = Puerta Principal
+panorama_4F61AB7A_44FA_6972_41B4_A87E1C8CC464.label = Rampa
+panorama_4F61F91E_44FA_16B2_41A3_7B02BADA7250.label = Rampa Arriba
+panorama_4791CB5A_49A1_0458_41BA_9E7DCD02A4E6.label = Zona De Espera 1.1
+panorama_475F14CB_49A1_0CB8_41A2_2D83A0D6B222.label = Zona De Espera 1.2
+
+## Skin
+
+### Imágen
+Image_4FAF50E3_4008_99D1_41C1_DF0DAE083B83.url = skin/Image_4FAF50E3_4008_99D1_41C1_DF0DAE083B83_es.png
+Image_4FF709A3_4008_A851_41C1_9978A4EE7FBC.url = skin/Image_4FF709A3_4008_A851_41C1_9978A4EE7FBC_es.png
+Image_5006B7E6_4008_67D3_41BC_6DD8E1FA9351.url = skin/Image_5006B7E6_4008_67D3_41BC_6DD8E1FA9351_es.png
+Image_500FA6D2_4009_F9F0_41C4_93BF60AB7B56.url = skin/Image_500FA6D2_4009_F9F0_41C4_93BF60AB7B56_es.png
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Puerta Principal
+
+## Ventana
+
+### Cuerpo
+htmlText_4CD0F567_50EE_2542_41A8_63C8D5B9A082.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Sala de reunion de padres para hablar sobre sus hijos y como ayudarles</SPAN></DIV></BODY></HTML></div>
+htmlText_4C32B441_50EB_FABE_41C1_CFB7E7F48AA3.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Sala de reunion de padres para hablar sobre sus hijos y como ayudarles</SPAN></DIV></BODY></HTML></div>
+htmlText_4B736A69_50DE_6F4E_41B4_E2548657BDC6.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Sala de reunion de padres para hablar sobre sus hijos y como ayudarles</SPAN></DIV></BODY></HTML></div>
+
+### Título
+window_4CD6E567_50EE_2542_41BA_049BC2EEDAE9.title = AULA 3
+window_4C348441_50EB_FABE_41C6_FA21B7A62E10.title = AULA 3
+window_4B72EA68_50DE_6F4E_41CA_F95AF60E006E.title = AULA 4
